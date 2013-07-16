@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 0929d444eb1734ebbb4b9583f594ec50
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: gas_valve_mesh:pCylinder6
+    100004: gas_valve_mesh:revolvedSurface1
+    100006: gas_valve_mesh:valve1
+    100008: group1
+    100010: group2
+    100012: group3
+    100014: pCylinder12
+    100016: pCylinder13
+    100018: pCylinder14
+    100020: polySurface5
+    100022: polySurface6
+    100024: pPlane1
+    100026: transform1
+    100028: transform2
+    400000: //RootNode
+    400002: gas_valve_mesh:pCylinder6
+    400004: gas_valve_mesh:revolvedSurface1
+    400006: gas_valve_mesh:valve1
+    400008: group1
+    400010: group2
+    400012: group3
+    400014: pCylinder12
+    400016: pCylinder13
+    400018: pCylinder14
+    400020: polySurface5
+    400022: polySurface6
+    400024: pPlane1
+    400026: transform1
+    400028: transform2
+    2300000: gas_valve_mesh:pCylinder6
+    2300002: gas_valve_mesh:revolvedSurface1
+    2300004: pCylinder12
+    2300006: pCylinder14
+    2300008: polySurface5
+    2300010: polySurface6
+    3300000: gas_valve_mesh:pCylinder6
+    3300002: gas_valve_mesh:revolvedSurface1
+    3300004: pCylinder12
+    3300006: pCylinder14
+    3300008: polySurface5
+    3300010: polySurface6
+    4300000: gas_valve_mesh:revolvedSurface1
+    4300002: gas_valve_mesh:pCylinder6
+    4300004: pCylinder12
+    4300006: polySurface5
+    4300008: polySurface6
+    4300010: pCylinder14
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
